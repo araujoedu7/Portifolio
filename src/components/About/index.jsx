@@ -11,16 +11,16 @@ const About = () => {
           {/* Imagem */}
           <div className="w-full md:w-1/2 mb-8 md:mb-0">
             <img
-              src="https://via.placeholder.com/400x400" // Troque pela sua imagem
+              src="https://via.placeholder.com/400x400" 
               alt="Minha Foto"
               className="rounded-lg shadow-lg w-full h-auto"
             />
           </div>
 
-          {/* Texto */}
+     
           <div className="w-full md:w-1/2 md:pl-8">
             <p className="text-lg text-gray-600 mb-4">
-              Olá! Meu nome é <strong>Seu Nome</strong> e sou desenvolvedor(a) de software. Com uma paixão por tecnologia e inovação, venho trabalhando para criar soluções digitais que facilitam a vida das pessoas e empresas.
+              Olá! Meu nome é <strong>Eduardo Araújo</strong> e sou desenvolvedor(a) de software. Com uma paixão por tecnologia e inovação, venho trabalhando para criar soluções digitais que facilitam a vida das pessoas e empresas.
             </p>
             <p className="text-lg text-gray-600 mb-4">
               Minha experiência inclui o desenvolvimento de aplicações web modernas utilizando tecnologias como <strong>React</strong>, <strong>Node.js</strong>, e <strong>Tailwind CSS</strong>. Tenho interesse em aprender e explorar novas tecnologias que ajudem a melhorar a experiência do usuário e a performance das aplicações.
