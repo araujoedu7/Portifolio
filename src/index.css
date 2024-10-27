@@ -1,0 +1,52 @@
+/* index.css ou App.css */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Estilos padrão claro */
+html {
+  @apply bg-white text-gray-800; 
+}
+
+/* Estilos padrão escuro */
+html.dark {
+  @apply bg-gray-900 text-gray-100; /* Fundo um pouco mais claro */
+}
+
+/* Transições suaves */
+body {
+  transition: background-color 0.5s ease, color 0.5s ease; 
+}
+
+/* Títulos */
+h1, h2, h3, h4, h5, h6 {
+  @apply text-gray-800 dark:text-gray-300; 
+}
+
+/* Parágrafos */
+p {
+  @apply text-gray-600 dark:text-gray-300; 
+}
+
+/* Seções */
+section {
+  @apply bg-white dark:bg-gray-800; 
+}
+
+/* Bordas */
+.border {
+  @apply border-gray-300 dark:border-gray-700; 
+}
+
+/* Links */
+a {
+  @apply text-blue-600 dark:text-blue-400;
+  transition: color 0.3s; /* Transição suave para links */
+}
+
+
+/* Botões */
+button {
+  @apply bg-blue-600 dark:bg-blue-500 text-white dark:text-gray-800; /* Botões mais visíveis */
+}
