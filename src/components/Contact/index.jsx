@@ -15,7 +15,7 @@ const Contact = () => {
         <div className="flex justify-center space-x-8">
           {/* WhatsApp */}
           <a
-            href="https://wa.me/SEU_NUMERO_DE_TELEFONE" // Insira seu número com o código do país, ex: https://wa.me/5511999999999
+            href="https://wa.me/85997394310" // Insira seu número com o código do país, ex: https://wa.me/5511999999999
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-600 hover:text-green-500 transition duration-300 text-5xl"
@@ -25,7 +25,7 @@ const Contact = () => {
           
           {/* E-mail */}
           <a
-            href="mailto:SEU_EMAIL@exemplo.com"
+            href="mailto:ea144027@gmail.com"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-600 hover:text-red-500 transition duration-300 text-5xl"
@@ -35,7 +35,7 @@ const Contact = () => {
           
           {/* Instagram */}
           <a
-            href="https://instagram.com/SEU_INSTAGRAM"
+            href="https://www.instagram.com/e.araujo07/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-600 hover:text-pink-500 transition duration-300 text-5xl"
@@ -45,7 +45,7 @@ const Contact = () => {
 
           {/* GitHub */}
           <a
-            href="https://github.com/SEU_GITHUB"
+            href="https://github.com/araujoedu7"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-600 hover:text-black transition duration-300 text-5xl"
@@ -55,7 +55,7 @@ const Contact = () => {
 
           {/* LinkedIn */}
           <a
-            href="https://linkedin.com/in/SEU_LINKEDIN"
+            href="https://www.linkedin.com/in/eduardo-araujo-7435441b6/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-600 hover:text-blue-700 transition duration-300 text-5xl"
