@@ -3,16 +3,16 @@ import { FaGithub, FaExternalLinkAlt } from "react-icons/fa";
 
 const projectsData = [
   {
-    title: "Sites com Wordpress",
-    description: "Um projeto incrível que utiliza wordpress construir uma aplicação web moderna.",
-    technologies: ["Wordpress"],
-    demoLink: "https://projeto1-demo.com",
+    title: "LandingPages",
+    description: "",
+    technologies: ["React Js"],
+    githubLink: "https://github.com/araujoedu7/BibliotecaFilmes",
+    demoLink: "#",
   },
   {
     title: "Sistemas com PHP",
     description: "Um projeto para gerenciamento de projetos.",
-    technologies: ["JavaScript", "BootStrap", "HTML", "PHP", "MySql"
-    ],
+    technologies: ["JavaScript", "BootStrap", "HTML", "PHP", "MySql"],
     githubLink: "https://github.com/araujoedu7/sistemaGerenciamento.git",
     demoLink: "#",
   },
