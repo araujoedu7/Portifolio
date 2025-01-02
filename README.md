@@ -1,8 +1,6 @@
 # 🌟 Meu Portfólio Pessoal
 
-Bem-vindo ao repositório do meu portfólio pessoal! Este projeto foi criado com o objetivo de apresentar minha trajetória, habilidades e os projetos que desenvolvi ao longo da minha carreira.
-
-![Screenshot do Portfólio](link-da-screenshot-ou-gif-aqui)
+Bem-vindo ao repositório do meu portfólio pessoal! Este projeto foi criado com o objetivo de apresentar minhas habilidades e os projetos que desenvolvi
 
 ---
 
