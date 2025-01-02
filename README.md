@@ -1,8 +1,41 @@
-# React + Vite
+# 🌟 Meu Portfólio Pessoal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bem-vindo ao repositório do meu portfólio pessoal! Este projeto foi criado com o objetivo de apresentar minha trajetória, habilidades e os projetos que desenvolvi ao longo da minha carreira.
 
-Currently, two official plugins are available:
+![Screenshot do Portfólio](link-da-screenshot-ou-gif-aqui)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## 🚀 Tecnologias Utilizadas
+
+- **[React](https://reactjs.org/):** Biblioteca JavaScript para construção de interfaces modernas e dinâmicas.  
+- **[Tailwind CSS](https://tailwindcss.com/):** Framework de estilização com classes utilitárias para um design rápido, responsivo e customizável.  
+- **[Vite](https://vitejs.dev/):** Ferramenta de build ultrarrápida e leve para desenvolvimento web.  
+- Outros: **HTML5**, **CSS3**, **JavaScript (ES6+)**.
+
+---
+
+## 📑 Funcionalidades
+
+- 🌐 Apresentação de projetos com links diretos para repositórios e demonstrações online.  
+- 📋 Sessão sobre minhas habilidades e tecnologias que utilizo no dia a dia.  
+- ✉️ Formulário para contato direto comigo.  
+- 🎨 Design responsivo, garantindo uma boa experiência em dispositivos móveis e desktops.  
+
+---
+
+## 🛠️ Como Executar Localmente
+
+1. Clone este repositório:  
+   ```bash
+   git clone https://github.com/seu-usuario/seu-repositorio.git
+
+
+2. Acesse o diretório do projeto:
+cd seu-repositorio
+
+3. Instale as dependências:
+npm install
+
+4. Inicie o servidor de desenvolvimento:
+npm run dev
